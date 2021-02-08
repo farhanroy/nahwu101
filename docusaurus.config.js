@@ -1,18 +1,18 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Nahwu 101',
+  tagline: 'Platform belajar nahwu dengan mudah',
+  url: 'https://nahwu101.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'farhanroy', // Usually your GitHub org/user name.
+  projectName: 'nahwu101', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Nahwu101',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Nahwu101 Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -22,7 +22,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        //{to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -39,10 +39,6 @@ module.exports = {
             {
               label: 'Style Guide',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
             },
           ],
         },
@@ -72,12 +68,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/farhanroy/nahwu101',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nahwu101 Built with Docusaurus.`,
     },
   },
   presets: [
