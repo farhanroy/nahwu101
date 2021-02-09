@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    Perkenalan: ['nahwu', 'kalimat', 'mabni_murob'],
+    Kalimat: ['isim', 'fiil', 'huruf'],
   },
 };
