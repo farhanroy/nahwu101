@@ -13,7 +13,7 @@ module.exports = {
       title: 'Nahwu101',
       logo: {
         alt: 'Nahwu101 Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -24,7 +24,7 @@ module.exports = {
         },
         //{to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/farhanroy/nahwu101',
           label: 'GitHub',
           position: 'right',
         },
@@ -34,41 +34,49 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Materi',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Nahwu',
               to: 'docs/',
+            },
+            {
+              label: 'Kalimat',
+              to: 'docs/kalimat',
+            },
+            {
+              label: 'Irob',
+              to: 'docs/irob',
+            },
+            {
+              label: 'Makrifat & Nakiroh',
+              to: 'docs/makrifat_akiroh',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact Person',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://instagram.com/farhanroy__',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://facebook.com/farhansekargadung',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/farhanroy__',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Kontributor',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/farhanroy/nahwu101',
+              label: 'Roy Farchan',
+              to: 'https://facebook.com/farhanroy.1',
             },
           ],
         },
