@@ -1,6 +1,6 @@
 ---
 id: huruf
-title: Kalimat Huruf
+title: Huruf
 ---
 Kalimat yang tidak ada tanda - tanda dari kalimat isim ataupun kalimat fi'il. Artinya jika ada suatu kalimat atau kata yan tidak ada tanda - tanda dari isim atau fi'il maka kalimat bisa dipastikan kalimat huruf.
 
