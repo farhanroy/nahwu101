@@ -67,8 +67,6 @@ Contoh
 </tbody>
 </table>
 
-###
-
 ### 3. Bisa dimasuki ``Huruf Jer``
 
 Huruf jer ada **9**, berikut macam - macam nya
@@ -76,43 +74,12 @@ Huruf jer ada **9**, berikut macam - macam nya
 <div align="center"><img src="https://1.bp.blogspot.com/-a74NzTxFbZ0/VqIhXTfLzpI/AAAAAAAAAZQ/237HEp0wZyU/s400/apa-saja-huruf-jar.JPG" /></div>
 
 Berikut pengimplementasian ``huruf jer`` pada kalimat isim
-<table>
-    <tbody>
-        <tr style="height: 23px;">
-            <td style="height: 23px;">&nbsp;عَلَى الْمَكْتَبِ</td>
-            <td style="height: 23px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;مِنَ الْمُسْلِمِيْنَ&nbsp;</td>
-            <td style="height: 23px;">&nbsp; &nbsp; اِلَى اَحْمَدَ&nbsp;</td>
-        </tr>
-        <tr style="height: 23px;">
-            <td style="height: 23px;">&nbsp;Diatas kitab</td>
-            <td style="height: 23px;">&nbsp;Dari orang - orang islam</td>
-            <td style="height: 23px;">&nbsp;ke ahman</td>
-        </tr>
-    </tbody>
-</table>    
 
 ### 4. Kemasukan alif dan lam (ٱلْ) 
 
 Kalimat isim dapat dimasuki Alif dan Lam atau ٱلْ, seperti
 
-<table>
-<tbody>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;اَلطَّالِبُوْنَ</td>
-<td style="height: 23px;">&nbsp;اَلْكِتَابُ</td>
-<td style="height: 23px;">اَلْمَسَاجِدُ</td>
-<td style="height: 23px;">المُدَرِّسُ&nbsp;</td>
-<td style="height: 23px;">&nbsp;ٱلْحَىُّ</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">&nbsp;Para Siswa</td>
-<td style="height: 23px;">&nbsp;Bacaan</td>
-<td style="height: 23px;">&nbsp;Masjid - masjid</td>
-<td style="height: 23px;">&nbsp;Pengajar</td>
-<td style="height: 23px;">&nbsp;yang maha hidup</td>
-</tr>
-</tbody>
-</table>
+
 
 Didalam kitab Alfiyah Ibnu Malik disebut kan lebih dari 4 :
 
