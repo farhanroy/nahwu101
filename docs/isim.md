@@ -75,11 +75,13 @@ Huruf jer ada **9**, berikut macam - macam nya
 
 Berikut pengimplementasian ``huruf jer`` pada kalimat isim
 
+مِنَ الْمَنْزِلِ,  إِلَى آخِرِ اللَيلِ, فِي المَسْجِدِ
+
 ### 4. Kemasukan alif dan lam (ٱلْ) 
 
 Kalimat isim dapat dimasuki Alif dan Lam atau ٱلْ, seperti
 
-
+الفتاح , العليم, 	العظيم
 
 Didalam kitab Alfiyah Ibnu Malik disebut kan lebih dari 4 :
 
