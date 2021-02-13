@@ -44,14 +44,14 @@ module.exports = {
               label: 'Kalimat',
               to: 'docs/kalimat',
             },
-            {
-              label: 'Irob',
-              to: 'docs/irob',
-            },
-            {
-              label: 'Makrifat & Nakiroh',
-              to: 'docs/makrifat_akiroh',
-            },
+            // {
+            //   label: 'Irob',
+            //   to: 'docs/irob',
+            // },
+            // {
+            //   label: 'Makrifat & Nakiroh',
+            //   to: 'docs/makrifat_akiroh',
+            // },
           ],
         },
         {
