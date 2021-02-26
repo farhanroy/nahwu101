@@ -1,0 +1,8 @@
+darululum/roy/nahwu/Application.java
+ darululum.roy.nahwu.Application
+darululum/roy/nahwu/LauncherActivity.java
+ darululum.roy.nahwu.LauncherActivity
+darululum/roy/nahwu/BuildConfig.java
+ darululum.roy.nahwu.BuildConfig
+darululum/roy/nahwu/DelegationService.java
+ darululum.roy.nahwu.DelegationService
