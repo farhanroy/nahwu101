@@ -13,9 +13,10 @@
   "enableNotifications": true,
   "startUrl": "/index.html",
   "iconUrl": "http://nahwu101.netlify.app/android-chrome-512x512.png",
+  "maskableIconUrl": "http://nahwu101.netlify.app/android-chrome-512x512.png" ,
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "C:\\Users\\farhanroy\\Documents\\belajar\\react\\nahwu101\\android.keystore",
+    "path": "./android.keystore",
     "alias": "android"
   },
   "appVersionName": "1",
