@@ -13,8 +13,8 @@
   "enableNotifications": true,
   "startUrl": "/index.html",
   "iconUrl": "http://nahwu101.netlify.app/android-chrome-512x512.png",
-  "maskableIconUrl": "http://nahwu101.netlify.app/android-chrome-512x512.png" ,
-  "splashScreenFadeOutDuration": 300,
+  "maskableIconUrl": "./store_icon.png" ,
+  "splashScreenFadeOutDuration": 3000,
   "signingKey": {
     "path": "./android.keystore",
     "alias": "android"
