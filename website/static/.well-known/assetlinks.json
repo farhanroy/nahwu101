@@ -1,5 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target" : { "namespace": "android_app", "package_name": "darululum.roy.nahwu",
-                   "sha256_cert_fingerprints": ["A9:B9:D1:59:E3:90:29:AE:92:EC:A2:C1:FD:EA:5F:A0:64:9F:72:22:97:5B:81:82:3D:C1:AD:34:B7:1D:1B:55"] }
-    }]
