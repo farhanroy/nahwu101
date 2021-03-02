@@ -128,6 +128,17 @@ module.exports = {
             name: 'theme-color',
             content: 'rgb(37, 194, 160)',
           },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: 'apple-touch-icon.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: 'maskable_icon_x512.png',
+            color: 'rgb(37, 194, 160)',
+          },
         ],
       },
     ],
