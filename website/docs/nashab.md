@@ -34,4 +34,47 @@ Fi'il mudhorek ini dibaca nashab karena kemasukan salah satu dari amil - amil ya
 Dia tidak akan bekerja
 </p>
 
+### 2. Kasroh
+Hanya ada 1 tempat yang bisa di i'robi `nashab` pada tanda **kasroh** yaitu ***Isim Jamak Muannas Salim***
+<h2 align="center">
+رَاَيْتُ المُؤْمِنَاتِ
+</h2>
+<p align="center">
+( Saya melihat banyak perempuan )
+</p>
+
+### 3. Alif
+Sama seperti sebelumnya, `alif` hanya bertempat pada satu tempat yaitu ***Asma'ul Khomsah***
+<h2 align="center">
+اَكْرَمْتُ أَبَاكَ
+</h2>
+<p align="center">
+( Saya melihat ayahmu )
+</p>
+
+أَبَا merupakan salah satu dari *Asma'ul Khomsah* dan dibaca `nashab` karena menjadi *Maf'ul Bih*.
+
+> I'rob nya *Maf'ul Bih* adalah ``Nashab``
+
+### 4. Ya'
+Pada bagian ini, ya' mendjadi tanda i'rob ``nashab`` bertempat pada 2 tempat :
+ 
+a. Isim tasniyah </br>
+```
+👉 رَاَيْتُ اِمْرَأَتَيْنِ
+```
+b. Isim jamak mudzakar salim
+```
+👉 اَكْرَمتُ المُؤْْمِنِيْنَ
+```
+
+### 5. Hadfu Nun
+Yang terakhir membuang **nun** pada ***Af'alul Khomsah*** (fiil yang 5)</br>
+Seperti pada lafadz berikut: 
+
+  لَنْ يَفْعَلاَ         - لَنْ تَفْعَلاَ          - لَنْ يَفْعَلُو         - لَنْ تَفْعَلُوْ         - لَنْ تَفْعَلِي
+
+Yang asalnya :
+
+ يَفْعَلاَنِ           - تَفْعَلاَنِ             - يَفْعَلُوْنَ          - تَفْعَلُوْنَ           - تَفْعَلِينَ
 
