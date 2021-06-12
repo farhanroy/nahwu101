@@ -15,44 +15,33 @@ Suatu dijelaskan diawal, isim mufrod adalah isim yang bermakna tunggal seperti l
 
 b. Isim jamak taksir 
 Contoh pengimplementasian i'rob nashab pada isim ini, yaitu pada lafadz :
-<h2 align="center">
+
 اَحَبَبْتُ النِّسَاءَ
-</h2>
-<p align="center">
+
 Saya menyukai para wanita
-</p>
+
 
 lafazd **نِسَاءَ** merupakan isim jamak dan menjadi maf'ul-nya lafadz **اَحَبَبْتُ**
 
 c. Fi'il mudhorek shoheh akhir
 Fi'il mudhorek ini dibaca nashab karena kemasukan salah satu dari amil - amil yang menashabkan. Sedangkan, ***Shoheh Akhir***  adalah Fiil mudhorek yang tidak bertemu dengan huruf `Alif tasniyah`, `Wawu jama'`, dan `Ya muannas mukhotobah`.
 
-<h2 align="center">
 هُوَ لَنْ يَعْمَلَ
-</h2>
-<p align="center">
+
 Dia tidak akan bekerja
-</p>
 
 ### 2. Kasroh
 Hanya ada 1 tempat yang bisa di i'robi `nashab` pada tanda **kasroh** yaitu ***Isim Jamak Muannas Salim***
-<h2 align="center">
 رَاَيْتُ المُؤْمِنَاتِ
-</h2>
-<p align="center">
+
 ( Saya melihat banyak perempuan )
-</p>
 
 ### 3. Alif
 Sama seperti sebelumnya, `alif` hanya bertempat pada satu tempat yaitu ***Asma'ul Khomsah***
 
-<h2 align="center">
 اَكْرَمْتُ أَبَاكَ
-</h2>
 
-<div style="text-style:center">
 ( Saya melihat ayahmu )
-</div>
 
 أَبَا merupakan salah satu dari *Asma'ul Khomsah* dan dibaca `nashab` karena menjadi *Maf'ul Bih*.
 
