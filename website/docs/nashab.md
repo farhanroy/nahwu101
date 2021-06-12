@@ -45,12 +45,14 @@ Hanya ada 1 tempat yang bisa di i'robi `nashab` pada tanda **kasroh** yaitu ***I
 
 ### 3. Alif
 Sama seperti sebelumnya, `alif` hanya bertempat pada satu tempat yaitu ***Asma'ul Khomsah***
+
 <h2 align="center">
 اَكْرَمْتُ أَبَاكَ
 </h2>
-<p align="center">
+
+<div style="text-style:center">
 ( Saya melihat ayahmu )
-</p>
+</div>
 
 أَبَا merupakan salah satu dari *Asma'ul Khomsah* dan dibaca `nashab` karena menjadi *Maf'ul Bih*.
 
@@ -59,7 +61,7 @@ Sama seperti sebelumnya, `alif` hanya bertempat pada satu tempat yaitu ***Asma'u
 ### 4. Ya'
 Pada bagian ini, ya' mendjadi tanda i'rob ``nashab`` bertempat pada 2 tempat :
  
-a. Isim tasniyah </br>
+a. Isim tasniyah 
 ```
 👉 رَاَيْتُ اِمْرَأَتَيْنِ
 ```
@@ -69,7 +71,8 @@ b. Isim jamak mudzakar salim
 ```
 
 ### 5. Hadfu Nun
-Yang terakhir membuang **nun** pada ***Af'alul Khomsah*** (fiil yang 5)</br>
+Yang terakhir membuang **nun** pada ***Af'alul Khomsah*** (fiil yang 5)
+ 
 Seperti pada lafadz berikut: 
 
   لَنْ يَفْعَلاَ         - لَنْ تَفْعَلاَ          - لَنْ يَفْعَلُو         - لَنْ تَفْعَلُوْ         - لَنْ تَفْعَلِي
